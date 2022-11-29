@@ -1,0 +1,23 @@
+package day9pp;
+
+public class pairinarray {
+    public static void main(String[] args) {
+        int index[] = { 2, 5, 6, 9, 12 };
+        pair(index);
+    }
+
+    public static int pair(int index[]) {
+        int tp = 0;
+        for (int i = 0; i < index.length; i++) {
+            int curr = index[i];
+            for (int j = i+1; j < index.length; j++) {
+                System.out.print("(" + curr + "," + index[j] + ")");
+                tp++;
+            }
+            System.out.println();
+        }
+        System.out.println("Total Pair is = "+ tp);
+
+        return 0;
+    }
+}
