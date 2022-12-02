@@ -1,0 +1,29 @@
+package day9pp;
+
+import java.util.Scanner;
+
+public class ques1 {
+    public static void main(String[] args) {
+        System.out.println("Enter size of array : ");
+        Scanner sc = new Scanner(System.in);
+        int size = sc.nextInt();
+        int numbers[] = new int[size];
+        for (int i = 0; i < size; i++) {
+            System.out.println("Enter the " + i + "th value of array");
+            int num = sc.nextInt();
+            numbers[i] = num;
+        }
+        System.out.println(checkfun(numbers));
+    }
+
+    public static boolean checkfun(int index[]) {
+        for (int i = 0; i < index.length - 1; i++) {
+            for (int j = i + 1; j < index.length; j++) {
+                if (index[i] == index[j]) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+}
