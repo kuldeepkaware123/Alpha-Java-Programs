@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:41:28.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.5" etag="PFrYIqMB-aY3cS13EQI3" type="github">
+  <diagram name="Page-1" id="Ooe2p0zVOr3qaIwgHyKI">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Deep transaction analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="736" width="197" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="User-friendly interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="102" width="179" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Customizable dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="102" width="189" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Real-time alerts" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="468" y="102" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Advanced reporting" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="102" width="156" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Anti-money laundering" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="854" y="102" width="178" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Machine learning integration" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="102" width="221" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Secure data storage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="102" width="158" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Ongoing training and support" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1561" y="102" width="223" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Provides" style="curved=1;startArrow=none;endArrow=block;exitX=-0.00012551709480092006;exitY=0.6944271274910396;entryX=0.4993016759776536;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="89" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Enables" style="curved=1;startArrow=none;endArrow=block;exitX=-0.00012551709480092006;exitY=0.7856685552282247;entryX=0.4995315390289145;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Issues" style="curved=1;startArrow=none;endArrow=block;exitX=-0.00012551709480092006;exitY=0.9878157372412862;entryX=0.5013522221491887;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Offers" style="curved=1;startArrow=none;endArrow=block;exitX=0.3197094000694007;exitY=0.9901961158303654;entryX=0.500918217194386;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="726" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.682273622862468;exitY=0.9901961158303654;entryX=0.5013899642429994;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Incorporates" style="curved=1;startArrow=none;endArrow=block;exitX=1.0021085400266696;exitY=0.909641057108134;entryX=0.5026042472183435;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1193" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Ensures" style="curved=1;startArrow=none;endArrow=block;exitX=1.0021085400266696;exitY=0.7436432540453737;entryX=0.4963905237898042;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1432" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Includes" style="curved=1;startArrow=none;endArrow=block;exitX=1.0021085400266696;exitY=0.6723685791427984;entryX=0.5011620286334256;entryY=0.009803996366613051;" edge="1" parent="1" source="2" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1673" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
